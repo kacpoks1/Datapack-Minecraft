@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#%#",
+        " # "
+    ],
+    "key": {
+        "%":{
+            "item": "minecraft:damaged_anvil"
+        },
+        "#":{
+            "item": "minecraft:iron_ingot"
+        }
+    },
+        "result": {
+            "id": "minecraft:anvil"
+        }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "item": "minecraft:cooked_porkchop"
+        },
+        {
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "result": {
+        "id": "minecraft:dried_kelp",
+        "components": {
+            "minecraft:food": {
+          "nutrition": 7,
+          "saturation": 5,
+          "can_always_eat": false,
+          "eat_seconds": 1.6
+        },
+        "minecraft:custom_model_data": 3973,
+        "minecraft:item_name": "{\"text\":\"Porkchop with Potatoes\",\"italic\":false}"
+        
+        },
+        "count": 1
+    }
+}
