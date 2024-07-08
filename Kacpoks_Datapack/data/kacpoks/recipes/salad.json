@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shapeless",
+    "group": "kacpoks:salad",
+	"ingredients": [
+		{
+			"item": "minecraft:kelp"
+		}
+	],
+	"result": {
+		"id": "sweet_berries",
+		"components": {
+            
+			"minecraft:food": {
+				"nutrition": 7,
+				"saturation": 5,
+				"can_always_eat": false,
+				"eat_seconds": 1.6
+                
+			},
+			"minecraft:custom_model_data": 3973,
+			"minecraft:custom_name": "{\"translate\":\"Salad\",\"italic\":false}"
+			
+		}
+	}
+}
+
