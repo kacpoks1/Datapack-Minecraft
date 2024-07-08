@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:bamboo"
+		},
+		{
+			"item": "minecraft:blue_dye"
+		}
+	],
+	"result": {
+		"id": "minecraft:item_frame",
+		"components": {
+			"minecraft:custom_model_data": 1,
+			"minecraft:custom_name": "{\"translate\":\"Pink Orchid\",\"italic\":false}",
+			"entity_data": {
+				"id": "item_frame",
+				"Tags": ["kacpoks.pink_orchid"],
+				"Invisible": true,
+				"Fixed": true
+			}
+		},
+		"count": 1
+	}
+}

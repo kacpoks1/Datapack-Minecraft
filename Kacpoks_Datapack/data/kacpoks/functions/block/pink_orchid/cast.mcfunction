@@ -1,0 +1,2 @@
+$summon interaction ~$(x) ~ ~$(z) {Tags:["kacpoks.pink_orchid"],width:0.35,height:0.65}
+$summon item_display ~$(x) ~.5 ~$(z) {Tags:["kacpoks.pink_orchid"],item:{id:"blue_orchid",components:{custom_model_data:3973}}}

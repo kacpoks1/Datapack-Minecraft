@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:smoking",
+	"group": "kacpoks:baked_carrot",
+	"ingredient": {
+		"item": "carrot"
+	},
+	"result": {
+		"id": "carrot",
+		"components": {
+			"custom_model_data": 3973,
+			"custom_name": "{\"translate\": \"Baked Carrot\",\"italic\": false}",
+			"food": {
+				"nutrition": 5,
+				"saturation": 4.8,
+				"can_always_eat": false,
+				"eat_seconds": 1.6
+			}
+		}
+	},
+	"experience": 0.35,
+	"cookingtime": 200
+}

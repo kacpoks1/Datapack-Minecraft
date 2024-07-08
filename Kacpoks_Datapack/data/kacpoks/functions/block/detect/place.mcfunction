@@ -1,0 +1,1 @@
+execute if entity @s[tag=kacpoks.pink_orchid] align xyz run function kacpoks:block/pink_orchid/detect
