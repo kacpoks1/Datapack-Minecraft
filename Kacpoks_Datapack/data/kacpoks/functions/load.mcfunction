@@ -1,3 +1,7 @@
+scoreboard objectives add death deathCount
+scoreboard objectives add id dummy
+scoreboard objectives add math dummy
+scoreboard objectives add xp xp
 
 scoreboard objectives add kacpoks.store dummy
 
